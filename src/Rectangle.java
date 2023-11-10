@@ -23,4 +23,3 @@ public class Rectangle {
         System.out.println("My perimeter is " + Perimeter);
         }
     }
-}
